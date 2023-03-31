@@ -17,14 +17,13 @@ main {
 
 /* A tablazat stilusai */
 table {
-    border-collapse: collapse;
-    margin-bottom: 80px;
     margin-top: 175px;
+    margin-bottom: 80px;
+    border-collapse: collapse;
+    color: rgb(0, 255, 213);
+    text-align: center;
 }
 
-table {
-    color: rgb(0, 255, 213);
-    }
 
 table, th, td {
     border: 1px solid #ddd;
@@ -32,12 +31,15 @@ table, th, td {
 
 th, td {
     padding: 10px;
-    text-align: left;
+    text-align: center;
 }
 
-/* A h2 elem stilusai */
+/* A h3 elem stilusai */
 h3 {
     color: rgb(7, 212, 202);
+    text-align: center;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /* Az id="quote" elem stilusai */
