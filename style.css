@@ -1,0 +1,50 @@
+body {
+    background-image: url(Science_Museum_of_Virginia.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    margin: 10px;
+}
+
+/* A header stilusai */
+header h1 {
+    margin: 10px;
+}
+
+/* A main stilusai */
+main {
+    padding: 20px;
+}
+
+/* A tablazat stilusai */
+table {
+    border-collapse: collapse;
+    margin-bottom: 80px;
+    margin-top: 175px;
+}
+
+table {
+    color: rgb(0, 255, 213);
+    }
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+/* A h2 elem stilusai */
+h3 {
+    color: rgb(7, 212, 202);
+}
+
+/* Az id="quote" elem stilusai */
+#quote {
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+    margin-top: 180px;
+    color: #11d0d6;
+}
